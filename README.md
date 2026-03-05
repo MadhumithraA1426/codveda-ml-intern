@@ -14,3 +14,13 @@ https://colab.research.google.com/drive/1OVzqZY47zyYT_f7oViFO15gUFFKJZkm9?usp=sh
 ✔️ R-Squared Score: 0.668759493535632
 ## Colab link
 https://colab.research.google.com/drive/1hMB9fVrSrUMpP7_potVo63mNmXG2-Z_I?usp=sharing
+
+## Task-2(Intermediate): Logistic Regression for Binary Classification
+✔️ Data preprocessing
+✔️ Logistic Regression model
+✔️ Coefficient interpretation
+✔️ Odds ratio calculation
+✔️ Accuracy, Precision, Recall
+✔️ ROC Curve evaluation
+## Colab link
+https://colab.research.google.com/drive/1y3MOWMf67w0d6l-rdpcs_tHXmbh2DL9D?usp=sharing

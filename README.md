@@ -24,3 +24,12 @@ https://colab.research.google.com/drive/1hMB9fVrSrUMpP7_potVo63mNmXG2-Z_I?usp=sh
 ✔️ ROC Curve evaluation
 ## Colab link
 https://colab.research.google.com/drive/1y3MOWMf67w0d6l-rdpcs_tHXmbh2DL9D?usp=sharing
+
+## Task-4(Intermediate): K-means Clustering
+✔️ K-Means clustering was implemented to perform customer segmentation.
+✔️ The Mall Customers dataset was loaded and preprocessed by selecting relevant features and scaling them using StandardScaler.
+✔️ The optimal number of clusters was determined using the Elbow Method.
+✔️ The K-Means algorithm grouped customers into five clusters based on their annual income and spending score.
+✔️ The clusters were visualized using a 2D scatter plot, helping identify distinct customer segments useful for targeted marketing strategies.
+## Colab link
+https://colab.research.google.com/drive/1nuDCWbZLCyhrPGGCHlLOL3IvMAla3J9T?usp=sharing

@@ -33,3 +33,12 @@ https://colab.research.google.com/drive/1y3MOWMf67w0d6l-rdpcs_tHXmbh2DL9D?usp=sh
 ✔️ The clusters were visualized using a 2D scatter plot, helping identify distinct customer segments useful for targeted marketing strategies.
 ## Colab link
 https://colab.research.google.com/drive/1nuDCWbZLCyhrPGGCHlLOL3IvMAla3J9T?usp=sharing
+
+## Task-5(Advanced): Neural Networks with TensorFlow/Keras
+✔️ Implemented a Neural Network using TensorFlow/Keras for handwritten character classification using the MNIST dataset.
+✔️ Preprocessed the dataset by normalizing pixel values and flattening 28×28 images for model input.
+✔️ Built a dense neural network with dropout layers to improve learning and reduce overfitting.
+✔️ Trained the model using Adam optimizer and sparse categorical cross-entropy loss.
+✔️ Evaluated the model and visualized predictions with true and predicted labels on test images.
+## Colab link
+https://colab.research.google.com/drive/1IwyefSuRbE2qIcRWzCSqhIRxsZSV3moo?usp=sharing

@@ -42,3 +42,12 @@ https://colab.research.google.com/drive/1nuDCWbZLCyhrPGGCHlLOL3IvMAla3J9T?usp=sh
 ✔️ Evaluated the model and visualized predictions with true and predicted labels on test images.
 ## Colab link
 https://colab.research.google.com/drive/1IwyefSuRbE2qIcRWzCSqhIRxsZSV3moo?usp=sharing
+
+## Task-6(Advanced):
+✔️ Implemented a Support Vector Machine (SVM) model for binary classification using the Breast Cancer dataset.
+✔️ The dataset was preprocessed by splitting into training and testing sets and scaling features using StandardScaler.
+✔️ Two SVM kernels (Linear and RBF) were trained and their classification performance was compared.
+✔️ Model performance was evaluated using accuracy, precision, recall, and AUC score.
+✔️ The decision boundary was visualized using two selected features to illustrate how SVM separates classes.
+## Colab link
+https://colab.research.google.com/drive/1jv96SMyYeysMw5c_5AeANh77_XKvjRem?usp=sharing

@@ -43,7 +43,7 @@ https://colab.research.google.com/drive/1nuDCWbZLCyhrPGGCHlLOL3IvMAla3J9T?usp=sh
 ## Colab link
 https://colab.research.google.com/drive/1IwyefSuRbE2qIcRWzCSqhIRxsZSV3moo?usp=sharing
 
-## Task-6(Advanced):
+## Task-6(Advanced): SVM for binary classification
 ✔️ Implemented a Support Vector Machine (SVM) model for binary classification using the Breast Cancer dataset.
 ✔️ The dataset was preprocessed by splitting into training and testing sets and scaling features using StandardScaler.
 ✔️ Two SVM kernels (Linear and RBF) were trained and their classification performance was compared.
